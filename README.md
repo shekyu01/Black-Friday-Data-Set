@@ -31,3 +31,4 @@ We at our end, have the actual purchase amount for the test dataset, against whi
 Where y hat is the predicted value and y is the original value.
 
 
+
